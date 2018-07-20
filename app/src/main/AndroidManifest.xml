@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="radio.sa.com.oir_dev_3">
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/oir1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/oir1_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".List_Activity" />
+        <activity android:name=".Player_activity" />
+        <activity android:name=".Edit_Area" />
+        <activity android:name=".delete_or_rewrite" />
+        <activity android:name=".play_screen"></activity>
+        <service android:enabled="true" android:name=".Radio"></service>
+    </application>
+
+</manifest>
