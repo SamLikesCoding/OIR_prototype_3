@@ -2,7 +2,7 @@
 
 This is third prototype build sucessfully.
 The app contains empty list needed to be filled with internet radio urls that user likes
-i would like suggestions and aids building this project together if interested
+I would like suggestions and aids building this project together if interested
 
 ## My friends whom took interest in my code
 
@@ -12,3 +12,4 @@ i would like suggestions and aids building this project together if interested
  -Linkedin: [Sreerag O Dileep](https://www.linkedin.com/in/sreerag-dileep)
 
 ### Name: Sisira Vijay M
+### Name:Swathy MD
