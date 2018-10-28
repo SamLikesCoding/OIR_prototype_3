@@ -12,3 +12,9 @@ i would like suggestions and aids building this project together if interested
  -Linkedin: [Sreerag O Dileep](https://www.linkedin.com/in/sreerag-dileep)
 
 ### Name: Sisira Vijay M
+
+### Name:  S R Rahul
+-Place:  Kerala,India  
+-Bio: CEO,Developer
+-GitHub: [S R Rahul](https://github.com/officialsrrahul) 
+-LinkedIn:  [S R Rahul](https://www.linkedin.com/in/s-r-rahul-2a180771/)
